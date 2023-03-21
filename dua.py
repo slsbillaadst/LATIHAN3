@@ -1,4 +1,4 @@
 
 print("ini file baru")
-print("menambah / modifi")
+print("menambah / modifii")
 
